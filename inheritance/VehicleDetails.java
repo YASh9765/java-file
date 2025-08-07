@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.time.Year;
 
-//class Vehicle {
+class Vehicle {
     String brand;
     String model;
     int year;
@@ -142,3 +142,4 @@ public class VehicleDetails {
     }
 
 }  
+
